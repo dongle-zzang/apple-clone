@@ -1,4 +1,4 @@
-# typescript-vue
+# ts-vue
 
 This project is based on existing work and is modified for personal use
 
