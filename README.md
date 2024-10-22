@@ -9,6 +9,7 @@ This project is based on existing work and is modified for personal use
 - Vue Router ^4.4.5
 - Element Plus
 - Tailwind CSS
+- Vue Use
 
 ### Installation
 
