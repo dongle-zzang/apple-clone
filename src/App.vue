@@ -46,7 +46,7 @@ const navs = ref([
 @tailwind components;
 @layer components {
 	.nav {
-		@apply h-[48px] md:h-[44px] w-full bg-[#161617cc] text-[#ffffffcc] text-xs fixed;
+		@apply h-[48px] md:h-[44px] w-full bg-[#161617dd] text-[#ffffffcc] text-xs fixed z-50 backdrop-saturate-[180%] backdrop-blur-lg;
 	}
 	.nav-icons {
 		@apply cursor-pointer w-[48px] md:w-auto flex items-center justify-center;
