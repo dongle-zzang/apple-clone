@@ -1,5 +1,5 @@
-# ts-vue
-Apple 공식 사이트 클론코딩
+# apple-clone
+This project is a clone of the main dashboard screen from the Apple website. The focus of this clone was to practice CSS concepts I haven't used much before, including grid layout and responsive design.
 
 ### Requirements
 
