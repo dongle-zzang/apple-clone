@@ -1,6 +1,5 @@
 # ts-vue
-
-This project is based on existing work and is modified for personal use
+Apple 공식 사이트 클론코딩
 
 ### Requirements
 
