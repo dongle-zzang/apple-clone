@@ -6,6 +6,7 @@ import AutoImport from 'unplugin-auto-import/vite';
 import { ElementPlusResolver } from 'unplugin-vue-components/resolvers';
 
 export default defineConfig({
+	base: process.env.NODE_ENV === 'production' ? '/ts-vue/' : '/',
 	plugins: [
 		vue(),
 		Components({
